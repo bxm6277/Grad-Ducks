@@ -1,0 +1,33 @@
+
+Q:
+Who are the disabled students, what disabilities they have?
+Why they need special pages in Moodle? 
+How many there are on avg?
+
+-------
+2 types: choose a date OR date is chosen so ack
+
+init. rooms with capacity & utilities / available dates & hours ~ M-F 8-8
+
+??? create a test: which rooms to use / available dates & hours / type of test (computer or paper)
+
+Student - registration form:
+- name(auto),date & hour,room type,subject (can choose from what's available)
+- one time register or he can change afterwards?
+- small calendar to show the upcoming
+
+Some org staff: 
+- display by student, subject, by room, by date
+- request a change - does it happen?
+- create the test - org. staff or professor?
+
+
+Non-functional req: security - only ODS students have access / only few members of the staff (who?) / most of the non-func. already provided by moodle
+
+
+TODO: 
+- take the picture of the form
+- scenario of a test registration
+- confirm these & add more
+- use cases
+- "EVIDENCE THE REQUIREMENTS HAVE BEEN PLACED UNDER CONFIGURATION MANAGEMENT" ???

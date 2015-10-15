@@ -1,0 +1,24 @@
+
+MEETING WITH Mrs.Nola:
+
+	* www.moodle.org is a good place to get it started
+	* the database used is MySQL
+
+
+MEETING WITH Mr. Patrick Landry:
+
+	* he confirmed what Mrs. Nola said
+	* he added we need to develop a Moodle Plugin
+	* Moodle works with php and Apache - after installation backup everything
+	* there are standard tables in MySQL that Moodle comes with, if we need additional stuff, we can create new tables
+	* he is available for support should we need more help in the future, though he never created a Moodle Plugin before
+
+
+CONCLUSIONS.. NEXT STEP
+	
+	* upcoming dates are 10/15 for Project Management Plan and Requirements Doc.
+	* we might need to meet again the lady from ODS to talk about the requirements in more detail
+
+
+
+Add your ideas.
