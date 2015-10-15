@@ -1,0 +1,9 @@
+Grad-Duck-Docs:
+https://github.com/bxm6277/Grad-Ducks-Docs
+Used for documentation version control.
+
+
+Grad-Duck-Source:
+https://github.com/bxm6277/Grad-Ducks-Source
+User for project code version control and deployment.
+
